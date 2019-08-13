@@ -12,4 +12,4 @@ python main.py --mode predict
 python data_util/generate_data.py
 
 # 灰度图像实例，文字去噪
-demo.png
+https://github.com/zhangxiao339/DeNoise-tensorflow/blob/master/demo.png
