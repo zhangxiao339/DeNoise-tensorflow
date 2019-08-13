@@ -10,3 +10,5 @@ python main.py --mode predict
 
 # data generate
 python data_util/generate_data.py
+
+# 灰度图像实例，文字去噪
