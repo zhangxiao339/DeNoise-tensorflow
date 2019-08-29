@@ -1,14 +1,7 @@
-'''
-Filename: init_logger.py
-Project: image2katex
-File Created: Sunday, 9th December 2018 6:11:11 pm
-Author: xiaofeng (sxf1052566766@163.com)
---------------------------
-Last Modified: Sunday, 9th December 2018 6:11:15 pm
-Modified By: xiaofeng (sxf1052566766@163.com)
----------------------------
-Copyright: 2018.06 - 2018 OnionMath. OnionMath
-'''
+# -*- coding: utf-8 -*-
+# @project : Denoise-tensorflow
+# @Time : 2019-08-11 15:41 
+# @Author : ZhangXiao(sinceresky@foxmail.com)
 
 import logging
 import os
